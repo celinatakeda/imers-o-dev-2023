@@ -9,5 +9,5 @@ while (chute != numeroSecreto) {
     alert('Errou... o número secreto é menor')
   } else if (chute < numeroSecreto) {
     alert('Errou... o número secreto é maior')
-  }
+  }  
 }
