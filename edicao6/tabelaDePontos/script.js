@@ -3,7 +3,8 @@ var paulo = {
   vitoria: 0,
   empate: 0,
   derrota: 0,
-  pontos: 0
+  pontos: 0,
+  imagem: '😀'
 }
 
 var rafa = {
@@ -37,6 +38,7 @@ exibirNaTela();
 function exibirNaTela() {
   elementoTabela.innerHTML = `
   <tr>
+    <td>${paulo.imagem}</td>
     <td>${paulo.nome}</td>
     <td>${paulo.vitoria}</td>
     <td>${paulo.empate}</td>
