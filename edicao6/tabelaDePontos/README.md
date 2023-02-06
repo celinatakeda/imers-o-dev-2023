@@ -1,5 +1,5 @@
 # Tabela de Classificação
-Criando uma tabela de classificação, manipular os valores, realizar cálculos, incluir no HTML e aprender o que são objetos no Javascript.
+Criando uma tabela de classificação, manipulando os valores, realizando cálculos, incluindo no HTML e aprender o que são objetos no Javascript.
 
 <p>
   <img src=".github/tabelaDePontos.png">
